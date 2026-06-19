@@ -2,7 +2,7 @@
 
 **I turn AI into products people love, and results businesses can measure.**
 
-I'm an AI-native builder and engineering leader. For the last few years I've been the person who takes a fuzzy idea, wires AI into the guts of it, and ships something real that people actually use. I care about two things at once: products that feel good to use, and outcomes you can put a number on.
+I'm an AI-native builder and product leader. For the last few years I've been the person who takes a fuzzy idea, wires AI into the guts of it, and ships something real that people actually use. I care about two things at once: products that feel good to use, and outcomes you can put a number on.
 
 🌐 **[benyoung.ai](https://benyoung.ai)** &nbsp;·&nbsp; 💬 AI enablement, product engineering, game systems
 
