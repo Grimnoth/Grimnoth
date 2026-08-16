@@ -17,6 +17,9 @@ AI is part of how I work, not the point of the work. I use it to shorten the dis
 - **[Sworkit](https://sworkit.com) · Product at scale**
   Previously, I co-founded and led product for the global wellness platform used by **30M+ people across 130+ countries**. We made movement fit real life: no gym, no fixed schedule, and no intimidation.
 
+- **[Shiba Story Go](https://www.shibastorygo.com/en) · Product, design, and engineering**
+  Across **500+ PRs** on the live mobile RPG, I worked as a hybrid product strategist, game designer, and developer: expanding and owning the combat engine; designing every mount and gear set, most skill mechanics, and the Expertise system; and building balance and content tooling so a small team could tune and ship faster.
+
 - **[Current City](https://currentcity.app) · Product craft**
   A browser game that makes circuit design tactile and playful. I designed and built the product end to end, from the world and interaction model to the visual system, onboarding, playtesting, and analytics.
 
